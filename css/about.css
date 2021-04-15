@@ -17,7 +17,7 @@
  */
 
 body {
-  background: url(../img/glasses_with_tech_edit_v2.jpg) no-repeat center center fixed; 
+  background: url(../img/DSCF0727_edit.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -78,20 +78,6 @@ img {
   width: 75px;
 }
 
-p span {
-  background: rgba(0, 0, 0, 0.6);
-  -moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.6);
-  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.6);
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.6);
-}
-
-h3 span {
-  background: rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
-  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
-}
-
 p {
   text-align: justify;
   text-justify: inter-word;
@@ -102,12 +88,16 @@ p.c {
   text-justify: inter-word;
 }
 
-div.center {
-  margin-left: auto;
-  margin-right: auto;
-  display: table;
+p span {
+  background: rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.8);
 }
 
-ul {
-  text-align: left;
+h3 span {
+  background: rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
 }
